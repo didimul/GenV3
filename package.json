@@ -15,8 +15,5 @@
     "only numbers"
   ],
   "author": "DS Apps",
-  "license": "ISC",
-  "dependencies": {
-    "genv3": "^3.0.1"
-  }
+  "license": "ISC"
 }
